@@ -1,6 +1,6 @@
 # FirstChromeExtension
 
-Just a "Hello world!" extension for testing purposes , for a future project.</br></br>
+A "Hello world!" extension for testing purposes , for a future project.</br></br>
 <b>How to use (Assuming chrome is installed on your PC) - </b></br>
 <b>1.</b> Firstly, Clone this repository or download the code as .zip.</br>
 <b>2.</b> Next, Open chrome browser on your PC (If not already running).</br>
